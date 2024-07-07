@@ -6,7 +6,7 @@
 using namespace std;
 
 int main() {
-    // Initialize random seed
+    // Initialize random number
     srand(time(0));
 
     // Generate random number between 1 and 100
